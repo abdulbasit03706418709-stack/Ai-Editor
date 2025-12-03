@@ -1,0 +1,5 @@
+{
+  "name": "AiEdit",
+  "description": "A photo editing tool that merges childhood and adult photos into a heartwarming interaction using the Gemini Nano Banana model.",
+  "requestFramePermissions": []
+}
